@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-<a href="https://github.com/Samniq/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=400&center=true&vCenter=true&width=435&lines=I'm+Front+End+Developer!;All+my+projects+are+in+description!;Any+questions%3F+;Contact+me!" alt="Typing SVG" /></a>
+<a href="https://github.com/Samniq/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=400&center=true&vCenter=true&width=435&lines=I'm+Full+Stack+Web+Developer!;All+my+projects+are+in+description!;Any+questions%3F+;Contact+me!" alt="Typing SVG" /></a>
 </p>
 
 ---
